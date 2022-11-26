@@ -1,0 +1,229 @@
+ h2 {
+  font-family: Ubuntu;
+  font-weight: bold;
+  color: #fff;
+}
+
+.carousel-item {
+  height: 600px;
+  padding: 5% 15%;
+}
+
+#testimonials {
+  width: 100%;
+  padding-bottom: 5%;
+  text-align: center;
+  background-color: #0F0E0E;
+  color: #fff;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: Montserrat;
+  color: #fff;
+  text-align: center;
+}
+
+.navbar-nav {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0;
+}
+
+.dropdown-item{
+  font-family: Ubuntu;
+}
+.navbar {
+  width: 100%;
+}
+
+.container-fluid {
+  height: 12rem;
+}
+
+em {
+  padding: 0 15%;
+  color: #fff;
+}
+
+.collapse {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: Montserrat;
+  text-align: left;
+}
+
+.nav-item {
+  padding: 0 0.2rem;
+}
+
+.testimonial-image {
+  margin: 5%;
+  width: 50%;
+}
+
+.testimonial-image-keywords {
+  margin: 5%;
+  width: 50%;
+}
+
+.testimonial-object {
+  margin: 5%;
+  width: 25%;
+}
+
+.testimonial-overloading {
+  margin: 5%;
+  width: 37%;
+}
+
+.testimonial-text {
+  text-align: center;
+}
+
+.carousel-indicators {
+  margin-top: 7%;
+}
+
+#names {
+  font-family: Ubuntu;
+  font-weight: bold;
+}
+
+.card-header {
+  background-color: #2D2424;
+}
+
+.card-body {
+  padding: 2%;
+  border-style: solid;
+  background-color: #3E2C41;
+  color: #fff;
+}
+
+.card-text .card-title {
+  font-size: 0.8rem;
+}
+
+.fonticon {
+  border-radius: 100%;
+  align-items: center;
+  padding: 7% 2% 10%;
+  color: #616F39;
+}
+
+.fonticons {
+  padding: 7% 2.5% 10%;
+  color: #21E6C1;
+}
+
+.fonticon:hover {
+  color: #A7D129;
+}
+
+.heading {
+  background-color: #5F7464;
+}
+
+table, tr, td {
+  border: 2px solid white;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+h1 {
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: bold;
+  color: #fff;
+}
+
+h4 {
+  text-align: center;
+  font-family: Ubuntu;
+  color: #;
+}
+
+#table {
+  color: #fff;
+  font-family: Ubuntu;
+  background-color: #00092C;
+  padding: 7% 15%;
+}
+
+#explain {
+  margin-top: 0.2%;
+  color: #fff;
+  font-family: Ubuntu;
+  background-color: #1D5C63;
+}
+
+.define{
+  padding: 7% 15%;
+  background-color: #470D21;
+}
+.lists {
+  padding-left: 1%;
+  padding-top: 5%;
+}
+
+.testimonial-this{
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 7% 0;
+}
+
+.codes{
+  margin-top: 7%;
+  background-color: #3E2C41;
+  color: #fff;
+}
+
+#whatis{
+  color: #fff;
+  font-family: Ubuntu;
+  background-color: #3B185F;
+  padding: 7% 15%;
+}
+
+#examples{
+  color: #fff;
+  font-family: Ubuntu;
+  background-color: #301B3F;
+  padding: 7% 15%;
+}
+
+#bottom-container {
+  padding: 7% 15%;
+  background-color: #8FD6E1;
+  line-height: 2;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.name {
+  color: #EAF6F6;
+
+}
+
+a {
+  color: #11999E;
+  font-family: Shadows Into Light;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}

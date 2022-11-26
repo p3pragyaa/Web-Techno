@@ -1,0 +1,38 @@
+<!--<div class="carousel-inner">
+  <div class="carousel-item active">
+    <h2>Introduction to class</h2>
+    <img class="testimonial-image" src="" alt="class">
+  </div>
+  <div class="carousel-item">
+    <h2 class="testimonial-text">class members</h2>
+    <img class="testimonial-image" src="" alt="class members">
+  </div>
+  <div class="carousel-item">
+    <h2 class="testimonial-text">Introduction to static and final keyword</h2>
+    <img class="testimonial-image" src="" alt="keywords">
+  </div>
+  <div class="carousel-item">
+    <h2 class="testimonial-text">Objects</h2>
+    <p>A Java object is a member (also called an instance) of a Java class.</p>
+    <img class="testimonial-image" src="https://static.javatpoint.com/images/objects.jpg" alt="real world objects">
+    <img class="testimonial-image" src="https://static.javatpoint.com/images/characteristics-of-object.jpg" alt="java objects">
+  </div>
+  <div class="carousel-item">
+    <h2 class="testimonial-text">constructors</h2>
+    <img class="testimonial-image" src="" alt="constructors">
+  </div>
+  <div class="carousel-item">
+    <h2 class="testimonial-text">Overloading</h2>
+    <img class="testimonial-image" src="" alt="overloading">
+  </div>
+</div>
+
+<button class="carousel-control-prev" type="button" data-bs-target="#testimonial-carousel" data-bs-slide="prev">
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Previous</span>
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#testimonial-carousel" data-bs-slide="next">
+  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <span class="visually-hidden">Next</span>
+</button>
+</div> --->
